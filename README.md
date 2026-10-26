@@ -2,7 +2,7 @@
 
 A cinematic, motion-rich luxury beauty salon website. **Frontend only**: booking is a clearly labelled demo and nothing is sent to any salon.
 
-**Live site:** _deploying — link added below once live_
+**Live site:** https://velara-beauty-atelier.vercel.app
 
 ## Stack
 
